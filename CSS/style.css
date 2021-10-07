@@ -1,0 +1,9 @@
+body{ /*Selector*/
+
+    background-color:silver ; /*Atributo para el color de fondo del elemento, una "Regla" mejor llamada en css */
+}
+
+div{
+
+    background-color: tomato;
+}
